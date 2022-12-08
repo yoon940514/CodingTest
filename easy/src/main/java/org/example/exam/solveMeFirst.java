@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 public class solveMeFirst {
     static int sovleMeFirst (int a, int b) {
-
-
         return a+b;
     }
 
