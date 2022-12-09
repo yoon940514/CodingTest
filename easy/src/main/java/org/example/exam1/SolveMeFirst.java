@@ -1,8 +1,8 @@
-package org.example.exam;
+package org.example.exam1;
 
 import java.util.Scanner;
 
-public class solveMeFirst {
+public class SolveMeFirst {
     static int sovleMeFirst (int a, int b) {
         return a+b;
     }
